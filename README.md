@@ -1,7 +1,5 @@
-# Code Institute
+# CV
 
-Welcome USER_NAME,
+This is my Webpage for showcasing my CV
 
-We have preinstalled all of the tools you need to get started.
-
-Happy coding!
+Created with the help of CodeInstitute
