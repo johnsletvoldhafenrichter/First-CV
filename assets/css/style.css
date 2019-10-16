@@ -2,10 +2,6 @@
 
 /* --------------------------------------------colors */
 
-body {
-
-}
-
 .bg-color-name-title {
     background: #676767;
 }
@@ -23,7 +19,7 @@ body {
 }
 
 .bg-color-contact {
-    background-color: #fff;
+    background-color: #3498db;
 }
 
 .ui-menu-color-home {
