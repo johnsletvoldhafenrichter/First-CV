@@ -91,7 +91,7 @@ header {
 }
 
 .logo {
-    background: url("../images/other-baby.jpg");
+    background: url("../images/me-flower.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -291,6 +291,10 @@ footer {
 .progress-section {
     margin: 40px 20px;
 
+}
+
+.ulskills {
+    margin: 60px 0px;
 }
 
 /* --------------------------------------------work history */
