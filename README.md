@@ -6,6 +6,9 @@ Feel free to ask any questions regarding the page to john.hafenrichter93@gmail.c
 
 This CV was build by me with guidance og Code Institute.
 
+Link to the deployed WebPage:
+https://johnsletvoldhafenrichter.github.io/First-CV/
+
 Frameworks and CDN's used in the CV:
 
 * Bootstrap4
